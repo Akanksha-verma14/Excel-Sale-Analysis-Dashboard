@@ -55,6 +55,6 @@ Data Visualization Techniques
 This dashboard helps understand which products, categories, and regions are performing well. It supports better planning and decision-making by providing key insights in a visual and easy-to-understand way.
 
 ## Dashboard 
-- ![Screenshot 2025-06-07 032740](https://github.com/user-attachments/assets/b15a0fd7-c078-438b-b942-852016fe7768)
+ ![Screenshot 2025-06-07 032740](https://github.com/user-attachments/assets/b15a0fd7-c078-438b-b942-852016fe7768)
 
 
