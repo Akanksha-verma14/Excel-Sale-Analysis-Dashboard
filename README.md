@@ -54,6 +54,9 @@ Data Visualization Techniques
 ## Business Use:-
 This dashboard helps understand which products, categories, and regions are performing well. It supports better planning and decision-making by providing key insights in a visual and easy-to-understand way.
 
+ ## 📌 Conclusion
+This Excel dashboard gives a clear and interactive view of e-commerce sales performance. It helps track key business metrics, understand trends, and find out which products and regions are doing well. The use of filters and visual charts makes the data easy to explore and analyze.
+
 ## Dashboard 
  ![Screenshot 2025-06-07 032740](https://github.com/user-attachments/assets/b15a0fd7-c078-438b-b942-852016fe7768)
 
